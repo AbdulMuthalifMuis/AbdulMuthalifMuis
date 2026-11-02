@@ -4,7 +4,7 @@ Mahasiswa S1 Teknik Informatika di Institut Teknologi PLN yang memiliki ketertar
 
 ---
 
-## 🛠️ Keterampilan & Alat Penunjang (Tech Stack)
+## 🛠️ Keterampilan & Alat Penunjang 
 
 - **Sistem Operasi & Linux:** Ubuntu, Fedora, CentOS
 - **Pemrograman & Framework:** Flutter, Python, SQL, C++
